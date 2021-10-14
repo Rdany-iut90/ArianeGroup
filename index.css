@@ -7,15 +7,14 @@ body{background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_backgrou
 }
 #conteneur {
     font-size: 200%;
-    background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg); ;
-    background-repeat:no-repeat;
+    
 }
 
 
 #milieu {
     text-decoration: antiquewhite;
     max-width:100%;height:auto;
-    font-size: 200%;
+    font-size: 20px;
 }
 
 h1 {
