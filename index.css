@@ -17,14 +17,14 @@ body{display:block; float:left;
 }
 #Menu li a {
   display: block ;
-  background: #900 url(lienCoulissant.png) left top no-repeat ;
+  background: #900 url(https://tse1.mm.bing.net/th?id=OIP.Dnokn3xY_dMK_Q0fHtiVwgHaHa&pid=Api&P=0&w=300&h=300) left top no-repeat ;
   color: #fff ;
   font: 1em "Trebuchet MS",Arial,sans-serif ;
   line-height: 1em ;
   padding: 4px 0 ;
   text-align: center ;
 }	
-#Menu li a:hover, #navigation li a:focus, #navigation li a:active {
+#Menu li a:hover, #Menu li a:focus, #Menu li a:active {
   background: #033 url(https://tse1.mm.bing.net/th?id=OIP.Dnokn3xY_dMK_Q0fHtiVwgHaHa&pid=Api&P=0&w=300&h=300) right top no-repeat ;
 }
 #conteneur{ }
