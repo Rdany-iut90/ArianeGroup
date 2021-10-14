@@ -1,7 +1,7 @@
-body{display:block;}
+body{display:block; float:left;}
 #conteneur{ width: 1920px; margin: 0 auto; border: 2px solid; }
 header{ background: #40A497; height: 80px; }
-section{ position: fixed;
+section{ 
 
  /* Préserve le ratio de l'image */
  min-width: 100%;
