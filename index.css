@@ -1,39 +1,77 @@
-body{display:block; float:left;
- max-width:100%;height:auto;
- color:white;
-    background-color:white;
-    
+body{background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg); ;
     background-repeat:no-repeat;
-         ;font-size:200%;
-    }
- #fondecran {
- /* Fixe l'image en haut à gauche de la page */
- position: fixed;
- top: 0;
- left : 0;
- /* Préserve le ratio de l'image */
- min-width: 100%;
- min-height: 100%;
-}
-#Menu li {
-  display: inline;
-}
-#Menu li a {
-  display: block ;
-  background: #900 url(https://images.emojiterra.com/google/noto-emoji/unicode-13.1/128px/1f680.png) left top no-repeat ;
-  color: #fff ;
-  font: 1em "Trebuchet MS",Arial,sans-serif ;
-  line-height: 1em ;
-  padding: 4px 0 ;
-  text-align: center ;
-}	
-#Menu li a:hover, #Menu li a:focus, #Menu li a:active {
-  background: #033 url(https://images.emojiterra.com/google/noto-emoji/unicode-13.1/128px/1f680.png) right top no-repeat ;
-}
-#conteneur{ }
-header{  }
-section{ 
 
+    color:white;
+    margin: 0 auto;
+    
+}
+#conteneur {
+    font-size: 200%;
+    background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg); ;
+    background-repeat:no-repeat;
+}
+
+
+#milieu {
+    text-decoration: antiquewhite;
+    max-width:100%;height:auto;
+    font-size: 200%;
+}
+
+h1 {
+    
+    text-align: center;
+}
+    #fondecran {
+    /* Fixe l'image en haut à gauche de la page */
+    position: fixed;
+    top: 0;
+    left : 0;
+    /* Préserve le ratio de l'image */
+    min-width: 100%;
+    min-height: 100%;
+   
+   }
+   #Menu {
+    margin: 0 ;
+    padding: 0 ;
+    list-style: none ;
+    text-align: center ;
   }
-footer{   }
-.clear{ clear: both; }
+  #Menu li {
+    display: inline-flex;
+    
+    margin-right: 1px ;
+    color: #fff ;
+    background-color: black ;
+  }
+#Menu  li a {
+        padding: 4px 20px ;
+        background-color: black;
+        color: #fff ;
+        border: 1px solid;
+        font: 1em "Trebuchet MS",Arial,sans-serif ;
+        line-height: 1em ;
+        text-align: center ;
+        text-decoration: none ;}
+#Menu li a:hover, #Menu li a:focus, #Menu li a:active {
+    background-color: red;
+            text-decoration: underline ;
+          }
+
+section{
+    margin: 100px;
+   
+}
+footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-align: left;
+    display: flex;
+}
+   
+  
