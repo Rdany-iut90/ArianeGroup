@@ -4,11 +4,12 @@ body{display:block; float:left;
  min-height: 100%;
   background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg);
   background-size: cover;
-background-repeat: no-repeat;}
-#conteneur{ width: 100%; margin: 0 auto; border: 2px solid; }
-header{ background: #40A497; height: 80px; }
+background-repeat: no-repeat;
+https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg}
+#conteneur{ width: 100%; margin:  auto; border: 2px solid; }
+header{  }
 section{ 
 
   }
-footer{ background: #40A497; height: 60px;  }
+footer{   }
 .clear{ clear: both; }
