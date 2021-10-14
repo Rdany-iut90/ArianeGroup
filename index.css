@@ -6,9 +6,7 @@ section{ position: fixed;
  min-width: 100%;
  min-height: 100%;
   background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg);
-  width: 100vh;
-height:100vw;
-  background-size: contain;
-background-repeat: no-repeat; margin: 20px; }
+  background-size: cover;
+background-repeat: no-repeat; }
 footer{ background: #40A497; height: 60px;  }
 .clear{ clear: both; }
