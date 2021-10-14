@@ -1,6 +1,12 @@
-#conteneur{ width: 2000px; margin: 0 auto; border: 2px solid; }
+#conteneur{ width: 1920px; margin: 0 auto; border: 2px solid; }
 header{ background: #40A497; height: 80px; }
-section{ background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg);
+section{ position: fixed;
+ top: 0;
+ left : 0;
+ /* Préserve le ratio de l'image */
+ min-width: 100%;
+ min-height: 100%;
+  background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg);
   width: 100vh;
 height:100vw;
   background-size: contain;
