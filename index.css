@@ -1,11 +1,20 @@
 body{display:block; float:left;
-/* Préserve le ratio de l'image */
+ max-width:100%;height:auto;
+ color:white;
+    background-color:white;
+    background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg);
+    background-repeat:no-repeat;
+         ;font-size:200%;
+    }
+ #fondecran {
+ /* Fixe l'image en haut à gauche de la page */
+ position: fixed;
+ top: 0;
+ left : 0;
+ /* Préserve le ratio de l'image */
  min-width: 100%;
  min-height: 100%;
-  background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg);
-  background-size: cover;
-background-repeat: no-repeat;
-https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg}
+}
 #conteneur{ }
 header{  }
 section{ 
