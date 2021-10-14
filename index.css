@@ -15,9 +15,12 @@ body{display:block; float:left;
  min-width: 100%;
  min-height: 100%;
 }
+#navigation li {
+  display: inline;
+}
 #Menu li a {
   display: block ;
-  background: #900 url(https://tse1.mm.bing.net/th?id=OIP.Dnokn3xY_dMK_Q0fHtiVwgHaHa&pid=Api&P=0&w=300&h=300) left top no-repeat ;
+  background: #900 url(https://images.emojiterra.com/google/noto-emoji/unicode-13.1/128px/1f680.png) left top no-repeat ;
   color: #fff ;
   font: 1em "Trebuchet MS",Arial,sans-serif ;
   line-height: 1em ;
@@ -25,7 +28,7 @@ body{display:block; float:left;
   text-align: center ;
 }	
 #Menu li a:hover, #Menu li a:focus, #Menu li a:active {
-  background: #033 url(https://tse1.mm.bing.net/th?id=OIP.Dnokn3xY_dMK_Q0fHtiVwgHaHa&pid=Api&P=0&w=300&h=300) right top no-repeat ;
+  background: #033 url(https://images.emojiterra.com/google/noto-emoji/unicode-13.1/128px/1f680.png) right top no-repeat ;
 }
 #conteneur{ }
 header{  }
