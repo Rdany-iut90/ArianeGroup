@@ -1,13 +1,14 @@
-body{display:block; float:left;}
-#conteneur{ width: 1920px; margin: 0 auto; border: 2px solid; }
+body{display:block; float:left;
+/* Préserve le ratio de l'image */
+ min-width: 100%;
+ min-height: 100%;
+  background-image:url(https://www.wallpapertip.com/wmimgs/68-686268_background-image-for-website-homepage.jpg);
+  background-size: cover;
+background-repeat: no-repeat;}
+#conteneur{ width: 100%; margin: 0 auto; border: 2px solid; }
 header{ background: #40A497; height: 80px; }
 section{ 
 
- /* Préserve le ratio de l'image */
- min-width: 100%;
- min-height: 100%;
-  background-image:url(https://tse2.mm.bing.net/th?id=OIP.nZ9SsnK_048lMP-ULUx6SQHaD3&pid=Api&P=0&w=327&h=172);
-  background-size: cover;
-background-repeat: no-repeat; }
+  }
 footer{ background: #40A497; height: 60px;  }
 .clear{ clear: both; }
