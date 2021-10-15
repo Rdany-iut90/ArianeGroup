@@ -1,5 +1,5 @@
 body{
-    background-image:url(fond.png);
+    background-image:url(fond.jpg);
     background-size: cover;
     background-repeat:no-repeat;
     color:white;
@@ -82,9 +82,7 @@ footer{
     font-size: 200%;
     border-top:rgb(255, 255, 255) solid;
     font: 1em "Trebuchet MS",Arial,sans-serif ;
-    background-image:url(fond.png);
-    background-size: cover;
-    background-repeat:no-repeat;
+   
 }
 
    
