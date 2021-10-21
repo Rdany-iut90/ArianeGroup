@@ -83,7 +83,7 @@ footer{
     font: 1em "Trebuchet MS",Arial,sans-serif ;
 }
 
-#background_dark{
+.background_dark{
   background-color : rgb(15,15,15)
 }
 
@@ -93,12 +93,12 @@ footer{
     text-align : right ;
 }
 
-#alinea{
+.alinea{
     text-indent : 100px ; 
     font-size : 25px ;
     text-align: justify;
 }
 
-#noir_pur{
+.noir_pur{
     background-color : rgb(0,0,0)
 }
