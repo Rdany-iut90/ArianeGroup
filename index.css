@@ -14,7 +14,7 @@ img{
 }
 p{
    font-family:Times New Roman;
-   font-size : 50px ; 
+   font-size : 25px ; 
 } 
 nav{
 
@@ -46,7 +46,7 @@ nav li a:hover, nav li a:focus, nav li a:active {
     text-decoration: underline ;
 }
 h1 {
-
+    font-size: 30px;
     text-align: center;
 
 }
