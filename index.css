@@ -46,7 +46,7 @@ h1 {
 }
 p {
     font-size:25px;
-    align-text : justify ; 
+    text-align: justify;
 }
 b { font-size: 30px;
 }
