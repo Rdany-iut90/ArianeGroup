@@ -35,6 +35,10 @@ nav li a {
     text-align: center ;
     text-decoration: none ;
 }
+nav li a:hover, nav li a:focus,nav li a:active {
+    background-color: red;
+    text-decoration: underline;
+}
 
 
 h1 {
