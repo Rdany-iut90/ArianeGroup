@@ -49,7 +49,8 @@ h1 {
 p {
     font-size:25px;
 }
-
+b { font-size 30px;
+}
 #fondecran {
     /* Fixe l'image en haut à gauche de la page */
     position: fixed;
