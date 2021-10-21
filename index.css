@@ -6,7 +6,9 @@ body{
     margin: 0 auto;
 
 }
-
+p {
+    align-text : justify ; 
+}
 img{
     float: left;
     width: 8vw;
@@ -89,4 +91,5 @@ footer{
 #pas_clair{
     color : rgb(200,200,200) ;
     font-size : 10px ; 
+    text-align : right ; 
 }
