@@ -9,7 +9,9 @@ img{
     float: left;
     width: 8vw;
 }
-
+header{
+    pb : 10px 
+}
 nav{
 
     font-size: 200%;
