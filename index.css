@@ -45,7 +45,8 @@ p {
     font-size:25px;
     text-align: justify;
 }
-b { font-size: 30px;
+b { 
+    font-size: 30px;
 }
 
 #fondecran {
@@ -56,11 +57,7 @@ b { font-size: 30px;
     /* Préserve le ratio de l'image */
     min-width: 100%;
     min-height: 100%;
-
 }
-
-
-
 
 footer{
     position: fixed;
@@ -72,7 +69,6 @@ footer{
     font-size: 200%;
     border-top:rgb(255, 255, 255) solid;
     font: 1em "Trebuchet MS",Arial,sans-serif ;
-
 }
 
 #background_dark{
