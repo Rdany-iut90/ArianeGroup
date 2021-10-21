@@ -98,4 +98,7 @@ footer{
     font-size : 25px ;
     text-align: justify;
 }
-    
+
+#noir_pur{
+    background-color : rgb(0,0,0)
+}
