@@ -42,11 +42,13 @@ nav li a:hover, nav li a:focus, nav li a:active {
     text-decoration: underline ;
 }
 h1 {
-
+    font-size:30px;
     text-align: center;
 
 }
-
+p {
+    font-size:25px;
+}
 
 #fondecran {
     /* Fixe l'image en haut à gauche de la page */
@@ -80,5 +82,5 @@ footer{
 }
 
 #background_dark{
-  background-color : rgb(100,100,100) ;
+  background-color : rgb(20,20,20)
 }
