@@ -42,12 +42,10 @@ nav li a:hover, nav li a:focus, nav li a:active {
     text-decoration: underline ;
 }
 h1 {
-    font-size: 35px;
+
     text-align: center;
 
 }
-p {
-    font-size 25px
 
 
 #fondecran {
@@ -82,5 +80,5 @@ footer{
 }
 
 #background_dark{
-  background-color : rgb(150,150,150) ;
+  background-color : rgb(100,100,100) ;
 }
