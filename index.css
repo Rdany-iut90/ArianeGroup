@@ -39,9 +39,7 @@ nav li a {
     text-align: center ;
     text-decoration: none ;
 }
-nav li a:hover, nav li a:focus, nav li a:active {
-    background-color: red;
-    text-decoration: underline ;
+
 }
 h1 {
     font-size:40px;
@@ -53,6 +51,7 @@ p {
 }
 b { font-size: 30px;
 }
+
 #fondecran {
     /* Fixe l'image en haut à gauche de la page */
     position: fixed;
@@ -65,10 +64,7 @@ b { font-size: 30px;
 }
 
 
-section {
-    margin: 100px;
-    font: 1em "Trebuchet MS",Arial,sans-serif ;
-}
+
 
 footer{
     position: fixed;
@@ -76,7 +72,7 @@ footer{
     bottom: 0;
     width: 100%;
     color: rgb(255, 255, 255);
-    text-align: left;
+    text-align: right;
     display: flex;
     font-size: 200%;
     border-top:rgb(255, 255, 255) solid;
