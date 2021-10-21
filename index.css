@@ -42,10 +42,12 @@ nav li a:hover, nav li a:focus, nav li a:active {
     text-decoration: underline ;
 }
 h1 {
-
+    font-size: 35px;
     text-align: center;
 
 }
+p {
+    font-size 25px
 
 
 #fondecran {
