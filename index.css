@@ -42,14 +42,14 @@ nav li a:hover, nav li a:focus, nav li a:active {
     text-decoration: underline ;
 }
 h1 {
-    font-size:30px;
+    font-size:40px;
     text-align: center;
 
 }
 p {
     font-size:25px;
 }
-b { font-size 30px;
+b { font-size: 30px;
 }
 #fondecran {
     /* Fixe l'image en haut à gauche de la page */
