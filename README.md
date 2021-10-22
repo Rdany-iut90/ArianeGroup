@@ -44,7 +44,7 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
 
 ### L'écran de zoning :
 
-![ecran de zoning](doc/ecran_zoning.png)
+![ecran de zoning](doc/ecran_zoning1.png)
 
 
 ### L'écran prototype :
