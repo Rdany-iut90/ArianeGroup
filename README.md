@@ -38,8 +38,11 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
 
 [le rapport](doc/DANY_SAE106_S1C1_ArianeGroup1.pdf)
 
- 
+L'écran de zoning :
 
 ![ecran de zoning](doc/ecran_zoning.png)
+
+
+L'écran prototype :
 
 ![ecran prototype](doc/ecran_prototype.png)
