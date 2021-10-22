@@ -45,6 +45,6 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
 
 ![ecran prototype](doc/ecran_prototype.png)
 
-### le rapport
+### Le rapport :
 
 [télécharger le rapport](doc/DANY_SAE106_S1C1_ArianeGroup1.pdf)
