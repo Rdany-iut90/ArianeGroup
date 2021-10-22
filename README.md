@@ -25,9 +25,9 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
   Pour l'organisation pour la création du site internet, on s'est mis d'accord sur la charte graphique du site internet. Puis Raphaël s'est chargé de faire l'aspect graphique avec la page d'accueil et pour finir on a chacun de notre côté réalisé notre page
  
 
-[Markdown Guide](Ariane6.png)
+[Markdown Guide](doc/DANY_SAE106_S1C1_ArianeGroup1.pdf.png)
 
-
+ 
 
 ![ecran de zoning](doc/ecran_zoning.png)
 
