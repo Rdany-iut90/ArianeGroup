@@ -11,7 +11,7 @@ Téo DECONINCK
 
 Simon NGUYEN
 
-###Notre sujet 
+### Notre sujet :
 
 On a choisi ArianeGroup car c'est une grande entreprise française qui évolue dans un domaine qui est très rare(l'espace)
 
