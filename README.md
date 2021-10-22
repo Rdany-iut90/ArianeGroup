@@ -11,6 +11,6 @@ Téo DECONINCK
 
 Simon NGUYEN
 
-![ecran de zoning](ecran_zoning.png)
+![ecran de zoning](doc/ecran_zoning.png)
 
-![ecran prototype](ecran_prototype.png)
+![ecran prototype](doc/ecran_prototype.png)
