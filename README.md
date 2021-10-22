@@ -25,14 +25,14 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
   Pour l'organisation pour la création du site internet, on s'est mis d'accord sur la charte graphique du site internet. Puis Raphaël s'est chargé de faire l'aspect graphique avec la page d'accueil et pour finir on a chacun de notre côté réalisé notre page
  
  ### La vérication du code html :
- -Page d'accueil :
+ - Page d'accueil :
  
 ![page_d'accueil](doc/page_d'accueil.png)
  
- - Page1
+- Page1
 ![page1](doc/page1.png)
 
- - Page2
+- Page2
 ![page2](doc/page2.png)
 
 - Page3
