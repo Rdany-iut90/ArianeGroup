@@ -27,7 +27,7 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
  ### La vérication du code html :
  -Page d'accueil :
  
-![page d'accueil](doc/page d'accueil.png)
+![page_d'accueil](doc/page_d'accueil.png)
  
  - Page1
 ![page1](doc/page1.png)
