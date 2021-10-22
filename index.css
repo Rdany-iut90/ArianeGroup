@@ -41,6 +41,9 @@ nav li a:hover, nav li a:focus,nav li a:active {
     text-decoration: underline;
 }
 
+nav a:hover {
+    color: rgb(255, 255, 255);
+}
 
 h1 {
     text-align:center;
