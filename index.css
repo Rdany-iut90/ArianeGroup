@@ -77,10 +77,8 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    color: rgb(255, 255, 255);
     display: flex;
     font-size: 200%;
-    border-top:rgb(255, 255, 255) solid;
     font: 1em "Trebuchet MS",Arial,sans-serif ;
 }
 
