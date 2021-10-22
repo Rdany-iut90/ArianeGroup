@@ -23,7 +23,9 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
    La personne qui a créé l'écran de zoning est Téo Deconinck.
 
   Pour l'organisation pour la création du site internet, on s'est mis d'accord sur la charte graphique du site internet. Puis Raphaël s'est chargé de faire l'aspect graphique avec la page d'accueil et pour finir on a chacun de notre côté réalisé notre page
-  
+ 
+
+[Markdown Guide](Ariane6.png)
 
 
 
