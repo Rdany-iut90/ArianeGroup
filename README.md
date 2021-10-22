@@ -38,6 +38,9 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
 - Page3
 ![page3](doc/page3.png)
 
+- Index.css
+![page_index](doc/index_css.png)
+
 
 ### L'écran de zoning :
 
