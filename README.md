@@ -49,7 +49,7 @@ On a choisi ArianeGroup car c'est une grande entreprise française qui évolue d
 
 ### L'écran prototype :
 
-![ecran prototype](doc/ecran_prototype.png)
+![ecran prototype](doc/ecran_prototype1.png)
 
 ### Le rapport :
 
